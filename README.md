@@ -3815,6 +3815,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Your Next Tours](https://yournext.tours/ai-assistant-integration/) `https://api.yournext.tours/api/mcp/guide`
   [![Your Next Tours MCP connector](https://glama.ai/mcp/connectors/tours.yournext/guide/badges/score.svg)](https://glama.ai/mcp/connectors/tours.yournext/guide)
   🔐 - Tour guide workspace: turn a PDF or web page into a tour program, open trips, add guests and edit your site.
+- [Zebu Data - TripAdvisor Travel Data](https://apify.com/delicious_zebu) `https://mcp.apify.com/?tools=delicious_zebu/tripadvisor-hotel-details-scraper,delicious_zebu/tripadvisor-review-collector`
+  [![Zebu Data - TripAdvisor Travel Data MCP connector](https://glama.ai/mcp/connectors/io.github.zebudata/travel-data/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.zebudata/travel-data)
+  🔐 - TripAdvisor hotels, restaurants and attractions: rankings, ratings, prices, amenities and full reviews.
 
 - [SimFuse](https://simfuse.app/agent/) `https://api.simfuse.app/agentic/mcp`
   [![SimFuse MCP connector](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront/badges/score.svg)](https://glama.ai/mcp/connectors/app.simfuse.api/sim-fuse-e-sim-storefront)
